@@ -1,0 +1,3 @@
+[submodule "django-twitter-bootstrap"]
+	path = django-twitter-bootstrap
+	url = git://github.com/estebistec/django-twitter-bootstrap.git
